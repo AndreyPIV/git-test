@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.312,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.197,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.825,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.895,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.036,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.521,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.865,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.927,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.823,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.812,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.495,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.867,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.11.06 20:22:46.784,=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.11.06 20:23:08.811,C:\Users\Андрей\Desktop\GCP\Unit1.pas=E:\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.11.06 20:23:08.811,C:\Users\Андрей\Desktop\GCP\Unit1.dfm=E:\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013.11.06 20:23:12.282,C:\Users\Андрей\Desktop\GCP\gcp.dproj=E:\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
