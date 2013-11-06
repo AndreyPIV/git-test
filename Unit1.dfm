@@ -13,6 +13,12 @@ object Form1: TForm1
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Image1: TImage
+    Left = 176
+    Top = 104
+    Width = 105
+    Height = 105
+  end
   object Button1: TButton
     Left = 24
     Top = 16
