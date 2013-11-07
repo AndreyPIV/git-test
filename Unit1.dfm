@@ -16,8 +16,8 @@ object Form1: TForm1
   object Image1: TImage
     Left = 104
     Top = 72
-    Width = 289
-    Height = 169
+    Width = 305
+    Height = 177
   end
   object Button1: TButton
     Left = 24
